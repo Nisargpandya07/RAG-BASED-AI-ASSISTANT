@@ -1,0 +1,5 @@
+The pre tag was introduced in Video 13, specifically from around the 153rd second. This is when we briefly discuss what happens inside a pre tag in HTML.
+
+To find this video and start time:
+Start at 0:00 and go forward for about 15 seconds to reach the end of that chunk.
+Then continue watching until you see "pre" mentioned, which will likely be around 2 minutes into the video.

@@ -1,0 +1,9 @@
+videos/
+*.webm
+*.mp4
+venv/
+__pycache__/
+videos/
+*.webm
+*.mp4
+*.joblib
